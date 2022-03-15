@@ -5,7 +5,7 @@ A simple mounting system for Raspberry Pi 2, 3, and 4.
 A picture is worth a thousand words, so have a look at a [3D drawing](https://github.com/DavesCodeMusings/pi-mount/blob/main/SimplePiMount.pdf) of the part.
 
 ## Why?
-I designed this so I could attach a Pi to the piece of 1/2" wall-mounted plywood alongside my other networking gear. It's cheaper than an official case. It also allows easier access to the SD card and provides open air cooling.
+I designed this so I could attach a Pi to the piece of 1/2" wall-mounted plywood I have holding all my other networking gear. It's cheaper than an official case. It also allows easier access to the SD card and provides open air cooling.
 
 ## How do I use it?
 Import the [.STL file](https://github.com/DavesCodeMusings/pi-mount/blob/main/SimplePiMount-Body.stl) into your slicer and send to your 3D printer.
